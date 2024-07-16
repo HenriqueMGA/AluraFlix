@@ -1,0 +1,65 @@
+[
+    {
+        "titulo": "O que faz uma desenvolvedora Front-End",
+        "categoria": "Front-End",
+        "imagem": "/imagens/videos/imagem1.png",
+        "link": "https://youtu.be/ZY3-MFxVdEw?si=HbzTlCy4JHK7moMT",
+        "id": "1"
+    },
+    {
+        "titulo": "Árvores Binárias",
+        "categoria": "Front-End",
+        "imagem": "/imagens/videos/imagem2.png",
+        "link": "https://youtu.be/UOK7nS2E9xM?si=finUa8gKCH6V1_VJ",
+        "id": "2"
+    },
+    {
+        "titulo": "Implementando UX no Front-End",
+        "categoria": "Front-End",
+        "imagem": "/imagens/videos/imagem3.png",
+        "link": "",
+        "id": "3"
+    },
+    {
+        "titulo": "O que estudar para ser Back-End Developer",
+        "categoria": "Back-End",
+        "imagem": "/imagens/videos/imagem4.png",
+        "link": "",
+        "id": "4"
+    },
+    {
+        "titulo": "Github CLI - Uma nova experiência no Github",
+        "categoria": "Back-End",
+        "imagem": "/imagens/videos/imagem5.png",
+        "link": "https://youtu.be/6o6-bKOZOEY?si=iMZF6LGM8pOgrJMP",
+        "id": "5"
+    },
+    {
+        "titulo": "Qual a melhor linguagem de programação",
+        "categoria": "Back-End",
+        "imagem": "/imagens/videos/imagem6.png",
+        "link": "https://youtu.be/Uh-GNH-t89w?si=6qIUX7__e2DSa3JR",
+        "id": "6"
+    },
+    {
+        "titulo": "Desenvolvimento Android",
+        "categoria": "Mobile",
+        "imagem": "/imagens/videos/imagem7.png",
+        "link": "https://youtu.be/fWscDFHKgw8?si=oNHI7cXE4ITuWifW",
+        "id": "7"
+    },
+    {
+        "titulo": "The New React Native",
+        "categoria": "Mobile",
+        "imagem": "/imagens/videos/imagem8.png",
+        "link": "https://youtu.be/52El0EUI6D0?si=4Z2V6WVV5_XUtv77",
+        "id": "8"
+    },
+    {
+        "titulo": "Hello World",
+        "categoria": "Mobile",
+        "imagem": "/imagens/videos/imagem9.png",
+        "link": "",
+        "id": "9"
+    }
+]
